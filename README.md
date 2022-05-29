@@ -5,7 +5,7 @@
 
 
 ### Live
-Check out the demo site [Hulu Clone](https://clone-aae80.web.app/)
+Check out the demo site [Hulu Clone](https://hulu-clone-next-js-tailwind-css-xi.vercel.app/)
 
 
 ### Built using:
